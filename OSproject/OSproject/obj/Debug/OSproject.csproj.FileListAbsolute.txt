@@ -1,0 +1,21 @@
+C:\Users\jungl\source\repos\OSproject\OSproject\obj\Debug\OSproject.csproj.AssemblyReference.cache
+C:\Users\jungl\source\repos\OSproject\OSproject\obj\Debug\OSproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\jungl\source\repos\OSproject\OSproject\obj\Debug\OSproject.Form1.resources
+C:\Users\jungl\source\repos\OSproject\OSproject\obj\Debug\OSproject.Properties.Resources.resources
+C:\Users\jungl\source\repos\OSproject\OSproject\obj\Debug\OSproject.csproj.GenerateResource.cache
+C:\Users\jungl\source\repos\OSproject\OSproject\obj\Debug\OSproject.csproj.CoreCompileInputs.cache
+C:\Users\jungl\source\repos\OSproject\OSproject\bin\Debug\OSproject.exe.config
+C:\Users\jungl\source\repos\OSproject\OSproject\bin\Debug\OSproject.exe
+C:\Users\jungl\source\repos\OSproject\OSproject\bin\Debug\OSproject.pdb
+C:\Users\jungl\source\repos\OSproject\OSproject\obj\Debug\OSproject.exe
+C:\Users\jungl\source\repos\OSproject\OSproject\obj\Debug\OSproject.pdb
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\bin\Debug\OSproject.exe.config
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\bin\Debug\OSproject.exe
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\bin\Debug\OSproject.pdb
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\obj\Debug\OSproject.csproj.AssemblyReference.cache
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\obj\Debug\OSproject.Form1.resources
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\obj\Debug\OSproject.Properties.Resources.resources
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\obj\Debug\OSproject.csproj.GenerateResource.cache
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\obj\Debug\OSproject.csproj.CoreCompileInputs.cache
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\obj\Debug\OSproject.exe
+E:\New folder\scheduling algorithms\OSproject\OSproject\OSproject\obj\Debug\OSproject.pdb
